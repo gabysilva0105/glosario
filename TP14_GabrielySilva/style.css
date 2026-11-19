@@ -1,0 +1,12 @@
+.MiClass h1{
+    background-color:rgba(245, 169, 234, 0.686) ;
+}
+body{
+    text-align: center;
+width: 80%;
+margin: 30px auto;
+padding: 25px;
+border: 2px solid;
+background-color: rgba(245, 169, 234, 0.686);
+
+}
